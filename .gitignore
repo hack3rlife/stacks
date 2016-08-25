@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/stack/stack/bin/Debug
+/stack/stack/obj/Debug
+*.suo
+/stack/Stack.UnitTest/bin/Debug
+/stack/Stack.UnitTest/obj/Debug
